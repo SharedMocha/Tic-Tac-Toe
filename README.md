@@ -10,7 +10,7 @@ The default layout of the baord is as below-
 -------------
 | - | - | - | 
 -------------
-**| - | - | - | 
+**| - | - | - |**
 
 Now players x & o need to play on it by filling values like below -
 -------------
