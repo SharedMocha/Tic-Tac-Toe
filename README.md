@@ -2,7 +2,7 @@
 Tic Tac Toe Program in Java
 
 General Outline:
-Tic Tac Toe is a 2 player game where one player enters 'X' and other player enters 'o'. They play the game so that one of them can with by having 3 identical chars/symbols like 'x/o' in a line(Columns,Rows,Diagonal).
+Tic Tac Toe is a 2 player game where one "player x" enters 'X' and other "player o" enters 'o'. They play the game so that one of them can with by having 3 identical chars/symbols like 'x/o' in a line(Columns,Rows,Diagonal).
 
 The default layout of the baord is as below-
 -------------
@@ -12,32 +12,39 @@ The default layout of the baord is as below-
 -------------
 | - | - | - | 
 
-Now players 1 & 2 need to play on it by filling values like below -
+Now players x & o need to play on it by filling values like below -
 -------------
 | x | o | o | 
 -------------
 | o | x | 0 | 
 -------------
-| o | - | x | 
+| o | x | 0 | 
 
-**Here Player who entered 'x' is winnder** As he had a diagonal match
 Total number of possibilities to win are 
 *First 3 possibilities*
 Columns(3 Columns)
-X X X
-X X X
-X X X 
+-------------
+| o | o | o | 
+-------------
+| o | o | o | 
+-------------
+| o | o | o | 
 *Next 3 possibilities*
 Rows(3 Rows)
-X X X
-X X X
-X X X
+-------------
+| x | x | x | 
+-------------
+| x | x | x | 
+-------------
+| x | x | x | 
 *Next 3 possibilities*
 Rows(Diagonal)
-X   X
-  X 
-x   X
-
+-------------
+| x |   |   | 
+-------------
+|   | x |   | 
+-------------
+|   |   | x | 
 # How to implement in a JAVA Program -
 
 In code we will ask each player to enter a row no and col no so we can place 'x' or 'o' in it.
