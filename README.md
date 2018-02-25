@@ -45,11 +45,11 @@ Rows(3 Rows)
 *Next 3 possibilities*
 Rows(Diagonal)
 -------------
-| x |   |   | 
+| x | o | x | 
 -------------
-|   | x |   | 
+| o | x | o | 
 -------------
-|   |   | x | 
+| x | o | x | 
 
 
 # How to implement in a JAVA Program -
