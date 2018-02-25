@@ -4,7 +4,7 @@ Tic Tac Toe Program in Java
 General Outline:
 Tic Tac Toe is a 2 player game where one "player x" enters 'X' and other "player o" enters 'o'. They play the game so that one of them can with by having 3 identical chars/symbols like 'x/o' in a line(Columns,Rows,Diagonal).
 
-**The default layout of the baord is as below
+**The default layout of the baord is as below**
 -------------
 | - | - | - | 
 -------------
@@ -51,7 +51,7 @@ Rows(Diagonal)
 -------------
 | x | o | x | 
 
-**
+
 
 # How to implement in a JAVA Program -
 
