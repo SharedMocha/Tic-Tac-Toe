@@ -20,7 +20,8 @@ Now players x & o need to play on it by filling values like below -
 -------------
 | o | x | 0 | 
 
-Total number of possibilities to win are 
+#Total number of possibilities to win are 
+
 *First 3 possibilities*
 Columns(3 Columns)
 -------------
@@ -29,6 +30,8 @@ Columns(3 Columns)
 | o | o | o | 
 -------------
 | o | o | o | 
+
+
 *Next 3 possibilities*
 Rows(3 Rows)
 -------------
@@ -37,6 +40,8 @@ Rows(3 Rows)
 | x | x | x | 
 -------------
 | x | x | x | 
+
+
 *Next 3 possibilities*
 Rows(Diagonal)
 -------------
@@ -45,6 +50,8 @@ Rows(Diagonal)
 |   | x |   | 
 -------------
 |   |   | x | 
+
+
 # How to implement in a JAVA Program -
 
 In code we will ask each player to enter a row no and col no so we can place 'x' or 'o' in it.
