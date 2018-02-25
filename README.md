@@ -43,7 +43,7 @@ Rows(3 Rows)
 
 
 Next 3 possibilities*
-Rows(Diagonal)
+Rows(2 Diagonal)
 -------------
 | x | o | x | 
 -------------
