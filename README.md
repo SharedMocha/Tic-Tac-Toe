@@ -64,6 +64,5 @@ By default we make some assumptions that player x plays first and player y plays
 ![demo](Walkthrough/TravelGuide-v2.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Imgur Image](https://imgur.com/a/lujWc)
 
-https://imgur.com/a/lujWc
