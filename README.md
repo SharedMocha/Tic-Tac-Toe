@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Theory -
+# Tic-Tac-Toe Game -
 Tic Tac Toe Program in Java
 
 General Outline:
