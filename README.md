@@ -10,7 +10,7 @@ The default layout of the baord is as below-
 -------------
 | - | - | - | 
 -------------
-| - | - | - | 
+**| - | - | - | 
 
 Now players x & o need to play on it by filling values like below -
 -------------
@@ -18,7 +18,7 @@ Now players x & o need to play on it by filling values like below -
 -------------
 | o | x | 0 | 
 -------------
-| o | x | 0 | 
+**| o | x | 0 | 
 
 #Total number of possibilities to win are 
 
@@ -29,7 +29,7 @@ Columns(3 Columns)
 -------------
 | o | o | o | 
 -------------
-| o | o | o | 
+**| o | o | o | 
 
 
 *Next 3 possibilities*
@@ -39,7 +39,7 @@ Rows(3 Rows)
 -------------
 | x | x | x | 
 -------------
-| x | x | x | 
+**| x | x | x | 
 
 
 *Next 3 possibilities*
