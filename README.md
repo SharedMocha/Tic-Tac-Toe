@@ -4,13 +4,13 @@ Tic Tac Toe Program in Java
 General Outline:
 Tic Tac Toe is a 2 player game where one "player x" enters 'X' and other "player o" enters 'o'. They play the game so that one of them can with by having 3 identical chars/symbols like 'x/o' in a line(Columns,Rows,Diagonal).
 
-The default layout of the baord is as below-
+**The default layout of the baord is as below
 -------------
 | - | - | - | 
 -------------
 | - | - | - | 
 -------------
-**| - | - | - |**
+| - | - | - |
 
 Now players x & o need to play on it by filling values like below -
 -------------
@@ -18,31 +18,31 @@ Now players x & o need to play on it by filling values like below -
 -------------
 | o | x | 0 | 
 -------------
-**| o | x | 0 | 
+| o | x | 0 | 
 
 #Total number of possibilities to win are 
 
-*First 3 possibilities*
+First 3 possibilities*
 Columns(3 Columns)
 -------------
 | o | o | o | 
 -------------
 | o | o | o | 
 -------------
-**| o | o | o | 
+| o | o | o | 
 
 
-*Next 3 possibilities*
+Next 3 possibilities*
 Rows(3 Rows)
 -------------
 | x | x | x | 
 -------------
 | x | x | x | 
 -------------
-**| x | x | x | 
+| x | x | x | 
 
 
-*Next 3 possibilities*
+Next 3 possibilities*
 Rows(Diagonal)
 -------------
 | x | o | x | 
@@ -51,6 +51,7 @@ Rows(Diagonal)
 -------------
 | x | o | x | 
 
+**
 
 # How to implement in a JAVA Program -
 
