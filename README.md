@@ -53,7 +53,7 @@ Rows(Diagonal)
 
 
 
-# How to implement in a JAVA Program -
+# How to implement in JAVA  -
 
 In code we will ask each player to enter a row no and col no so we can place 'x' or 'o' in it.
 By default we make some assumptions that player x plays first and player y plays second.
