@@ -59,10 +59,6 @@ By default we make some assumptions that player x plays first and player y plays
  player 1 enters his row and column no to fill in 'x' and then we will move to player 2 and ask him to enter his row and column number to fill with 'o'. This will the game with move on till all the values are filled and a winner is declared.
  A tie is also possible - To check check if the game was a tie - We first check if board was full and there was no winner.
  
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lujWc"><a href="//imgur.com/lujWc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-![demo](Walkthrough/TravelGuide-v2.gif)
-
-
-![Imgur Image](https://imgur.com/a/lujWc)
+![Imgur Image](https://i.imgur.com/eyvpT41.gif)
 
