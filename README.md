@@ -60,3 +60,10 @@ By default we make some assumptions that player x plays first and player y plays
  A tie is also possible - To check check if the game was a tie - We first check if board was full and there was no winner.
  
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/lujWc"><a href="//imgur.com/lujWc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![demo](Walkthrough/TravelGuide-v2.gif)
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+https://imgur.com/a/lujWc
