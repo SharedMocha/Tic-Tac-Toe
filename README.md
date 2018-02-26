@@ -2,7 +2,8 @@
 Tic Tac Toe Program in Java
 
 General Outline:
-Tic Tac Toe is a 2 player game where one "player x" enters 'X' and other "player o" enters 'o'. They play the game so that one of them can with by having 3 identical symbols like 'x (or) o' in a sequence (Columns,Rows,Diagonal).
+Tic Tac Toe is a 2 player game where one "player x" enters 'x' and other "player o" enters 'o'. 
+They play the game so that one of them can win by having 3 identical symbols like 'x (or) o' in a sequence (Columns,Rows,Diagonal).
 
 **The default layout of the baord is as below**
 -------------
