@@ -57,8 +57,8 @@ Rows(2 Diagonal)
 # How to implement in JAVA  -
 
 In code we will ask each player to enter a row number  and col number so we can place 'x' or 'o' on the board..
-By default we make some assumptions that 'player x' plays first and 'player y' plays second.
-'player x' enters his row and column no to fill in 'x' and then we will move to 'player y' and ask him to enter his row and column number to fill with 'o'. 
+By default we make some assumptions that 'player x' plays first and 'player o' plays second.
+'player x' enters his row and column no to fill in 'x' value on the board and then we  move on to 'player y' and ask him to enter his row and column number to fill with value 'o' on the board.
 This way the game with move on till all the values are filled (or) till a winner is declared.
 
 A tie is also possible - To check check if the game was a tie - We first check if board was full and there was no winner.
