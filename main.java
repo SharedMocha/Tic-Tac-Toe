@@ -1,5 +1,11 @@
 
-//Tic-Tac-Toe -Will have its own java file -But for this demo we combined both the main class and tic tac toe into one
+/*
+*
+*
+*Tic-Tac-Toe - Will have its own java file -But for this demo we combined both the main class and tic tac toe into one
+*
+*
+*/
 
 import java.util.Scanner;
 
